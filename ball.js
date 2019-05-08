@@ -1,7 +1,7 @@
 // dit commentaar is extra++
 
 // nog meer commentaar houbabla
-
+// bla bal bla
 class Ball {
   
   constructor(newX, newY, newSpeedX, newSpeedY) {

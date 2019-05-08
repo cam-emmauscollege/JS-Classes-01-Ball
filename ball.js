@@ -1,4 +1,6 @@
-// dit commentaar is extra--
+// dit commentaar is extra++
+
+// nog meer commentaar houbabla
 
 class Ball {
   
@@ -19,7 +21,7 @@ class Ball {
     }
     
     if (this.y <= 0 || this.y >= height) {
-      this.speedY = this.speedY * -1;
+      this.speedY = this.speedY * -2;
     }
     
     /*

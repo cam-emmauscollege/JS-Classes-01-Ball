@@ -1,3 +1,5 @@
+// dit commentaar is extra
+
 class Ball {
   
   constructor(newX, newY, newSpeedX, newSpeedY) {
